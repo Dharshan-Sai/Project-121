@@ -1,0 +1,91 @@
+#Heading 
+{
+    color: red;
+    text-align: center;
+    font-size: large;
+    font-weight: bolder;
+}
+
+#lens1
+{
+    font-size: 30px;
+    font-weight: bolder;
+    background:"color.png";
+}
+
+#div 
+{
+    text-align: center;
+}
+
+#header
+{
+    text-align: center;
+    font-weight: bolder;
+    color: red;
+}
+
+#div1
+{
+    text-align: center;
+}
+
+#lens2
+{
+    font-size: 30px;
+    font-weight: bolder;
+    background:"color.png";
+}
+
+#line 
+{
+    font-size: 2px;
+}
+
+#result
+{
+    text-align: center;
+    color: white;
+}
+
+.test_image_and_result 
+{
+    background-color: gray;
+    text-align: center;
+    border-radius: 20px;
+}
+
+#header5
+{
+    font-size: medium;
+    background-color: whitesmoke;
+}
+
+#header6
+{
+    font-size: medium;
+    background-color: whitesmoke;
+}
+
+.mini_result
+{
+    font-size: medium;
+}
+
+.copy_right_footer
+  {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    line-height: 2;
+    text-align: center;
+  }
+
+  #div_end 
+  {
+      background-color: pink;
+      border-radius: 20px;
+      border-color: black solid ;
+  }
